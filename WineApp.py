@@ -55,7 +55,7 @@ Y_test_preds = rf_classif.predict(X_test)
 # In[15]:
 
 
-st.title("Wine Type :red[Prediction] :bar_chart: :chart_with_upwards_trend: :🍷:")
+st.title("Wine Type :red[Prediction] :bar_chart: :chart_with_upwards_trend: 🍷")
 st.markdown("Predict Wine Type using Ingredients Values")
 
 tab1, tab2, tab3 = st.tabs(["Data :clipboard:", "Global Performance :weight_lifter:", "Local Performance :bicyclist:"])
